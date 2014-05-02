@@ -3,7 +3,7 @@ This repo contains two Processing sketches made for 2.1.2 that create vertical s
 
 ## How it works
 These sketches...
-1. Grab every frame of video and adds it to the `pixels` array so it can be edited.
+- Grab every frame of video and adds it to the `pixels` array so it can be edited.
 2. Select the top half of the frame.
 3. Deselect everything above the exact middle row
 4. Move the middle row to the top of new frame
